@@ -129,7 +129,7 @@ python scripts/test.py
 
 ## Model Weights
 
-Trained model weights are available at: *(ModelScope / Google Drive link)*
+Trained model weights are available at: *(https://drive.google.com/drive/folders/1yXurKEMRW1YmgWXPL1tYQT4nq5c5LvzZ?usp=drive_link)*
 
 - `mlp_model.pickle` — MLP (Test 93.85%)
 - `cnn_5epoch.pickle` — CNN (Test 90.32%)
